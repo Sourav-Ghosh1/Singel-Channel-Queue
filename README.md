@@ -3,7 +3,7 @@ Discrete variables are countable in a finite amount of time. For example, we can
 
 Discrete Variable on a Scatter Plot
 
-
+https://github.com/Sourav-Ghosh1/Singel-Channel-Queue/issues/1
 
 # What is Continuous Variable?
 Continuous Variables would take forever to count. In fact, you would get to “forever” and never finish counting them. For example, take age. You can’t count “age”. Why not? Because it would literally take forever. For example, you could be: 25 years, 10 months, 2 days, 5 hours, 4 seconds, 4 milliseconds, 8 nanoseconds, 99 picosends and so on.
