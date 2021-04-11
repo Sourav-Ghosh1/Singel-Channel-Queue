@@ -5,7 +5,7 @@ Discrete Variable on a Scatter Plot
 
 
 
-What is Continuous Variable?
+# What is Continuous Variable?
 Continuous Variables would take forever to count. In fact, you would get to “forever” and never finish counting them. For example, take age. You can’t count “age”. Why not? Because it would literally take forever. For example, you could be: 25 years, 10 months, 2 days, 5 hours, 4 seconds, 4 milliseconds, 8 nanoseconds, 99 picosends and so on.
 Time is a continuous variable. Anyone's age can be turned into a discrete variable and then you could count it. For example: A person’s age in years. A baby’s age in months.
 What is Probability Distribution
